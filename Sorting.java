@@ -2,6 +2,7 @@ import java.util.Arrays;
 import java.util.Scanner;
 
 // buble sort
+// time coplexity(n^2)
 
 public class Sorting{
 
